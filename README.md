@@ -26,13 +26,13 @@ The solution was implemented in the following steps:
 - Python 3.8+
 - pip
 - Required Python libraries:
-    pandas
-    numpy
-    fastapi
-    pydantic
-    faiss
-    sentence_transformers
-    nest_asyncio
+    pandas,
+    numpy,
+    fastapi,
+    pydantic,
+    faiss,
+    sentence_transformers,
+    nest_asyncio,
   ```sh
   pip install fastapi uvicorn pandas numpy sentence-transformers faiss-cpu pydantic nest_asyncio
   ```
